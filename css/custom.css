@@ -1,3 +1,10 @@
+/* Custom Style */
+
+body:after{
+    position:absolute; z-index:-1;
+    content: url('../images/logo.svg');
+}
+
 .small-icons,
 .small-icons .icons {
     font-size: 8pt;
