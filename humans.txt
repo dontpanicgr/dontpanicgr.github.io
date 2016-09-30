@@ -28,7 +28,7 @@
 	
 
 # SITE
-	Last update:2012/02/04
+	Last update:2012/10/01
 	Language: English / Greek (sometimes)
 	Doctype:HTML5
 	IDE: Notepad++, FileZilla, Github, CorelDraw, Illustrator
