@@ -1,4 +1,6 @@
-<img src="https://dontpanicgr.github.io/images/gm_logo-sm.svg" style="width:200px;">
+[<img src="https://dontpanicgr.github.io/images/gm_logo-sm.svg" style="width:200px;">](http://getskeleton.com/)
+
+
 
 **READ_THIS_FIRST**
 
@@ -6,26 +8,40 @@
 
 -Henry David Thoreau
 
+
+
 **FOLLOW_ME**
 
 George Margaritis (aka dontpanic / dontpanicgr / dontpaniccg)
 UI/UX Designer 
 
 › behance.com/dontpanicgr
+
 › dribbble.com/dontpanic_cg
+
 › twitter.com/dontpanic_cg
+
 › linkedin.com/in/gmargaritis
 
 
+
 **THANKS**
+
 Skeleton Boilerplate-[http://getskeleton.com/](http://getskeleton.com/)
+
 Simple Line Icons-[https://thesabbir.github.io/simple-line-icons/](https://thesabbir.github.io/simple-line-icons/)
+
 Codrops - [http://tympanus.net/codrops/](http://tympanus.net/codrops/)
 
 
+
 **SITE**
+
 Last update:2016/10/01
+
 Language: English / Greek (sometimes)
+
 Doctype:HTML5
+
 IDE: Notepad++, FileZilla, Github, CorelDraw, Illustrator
 
