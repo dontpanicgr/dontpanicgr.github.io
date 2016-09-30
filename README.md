@@ -1,6 +1,4 @@
-╔╦╗╔═╗╔╗╔╔╦╗╔═╗╔═╗╔╗╔╦╔═╗
- ║║║ ║║║║ ║ ╠═╝╠═╣║║║║║  
-═╩╝╚═╝╝╚╝ ╩ ╩  ╩ ╩╝╚╝╩╚═╝
+<img src="https://dontpanicgr.github.io/images/gm_logo-sm.svg" style="width:200px;">
 
 **READ_THIS_FIRST**
 
