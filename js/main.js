@@ -157,12 +157,22 @@
 		this.closeCtrl.addEventListener('click', function() {
 			self._closeItem(); 
 		});
-
+		
+		window.onkeydown = function( event ) {
+			if ( event.keyCode == 27 ) {
+			self._closeItem();
+			console.log( 'escape pressed' );
+		}
+		};
+		
 		window.addEventListener('resize', throttle(function(ev) {
 			// callback
 			self.options.onResize(self);
 		}, 10));
 	}
+	
+
+
 
 	/**
 	 * open a grid item
