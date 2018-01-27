@@ -963,8 +963,12 @@ a.tooltips {
   }
 
   /* Changelog bullet*/
-.HW_badge_cont {
-    position: absolute!important;
-    top: 24px!important;
-    left: 14px!important;
+  span#HW_badge_cont {
+    position: absolute;
+    top: 14px;
+    background: white;
+}
+
+span#HW_badge {
+    background: #9682ec!important;
 }
