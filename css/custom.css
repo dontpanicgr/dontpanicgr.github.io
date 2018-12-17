@@ -254,26 +254,23 @@ a.tooltips {
   
   .categories,
   .values {
-      /*background-image: url(../images/values-bg.jpg);*/
       background-image: url(https://images.unsplash.com/photo-1485841890310-6a055c88698a?ixlib=rb-0.3.5&s=1037304…&auto=format&fit=crop&w=1650&q=80);
       background-size: cover;
   }
 
   .values2 {
-    background-image: url(https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1336&q=80);
-    background-image: url(https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1336&q=80);
     background-image: url(https://images.unsplash.com/photo-1449247709967-d4461a6a6103?ixlib=rb-1.2.1&auto=format&w=1920);
     background-size: cover;
     
 }
   
   .top-avatar {
-      -webkit-box-shadow: -1px 3px 5px 0 rgba(0, 0, 0, .23);
-      -moz-box-shadow: -1px 3px 5px 0 rgba(0, 0, 0, .23);
-      box-shadow: -2px 4px 5px 1px rgba(110, 99, 99, .6);
+      -webkit-box-shadow: -1px 3px 3px 0 rgba(0, 0, 0, .23);
+      -moz-box-shadow: -1px 3px 3px 0 rgba(0, 0, 0, .23);
+      box-shadow: -1px 3px 3px 0 rgba(0, 0, 0, .23);
       display: inline-block;
       /*opacity: .4;*/
-      background: url(../images/me/me1.jpg);
+      background: url(../images/me/me3.jpg);
       background-size: cover;
       margin: 0 0 20px;
   }
@@ -369,12 +366,14 @@ a.tooltips {
   }
   @media screen and (width: 800px) {
       .topbg {
-      top: 18%!important;
+    /*   top: 18%!important; */
+    top: 34rem!important;
       }
   }	
   @media screen and (width: 980px) {
       .topbg {
-      top: 14%!important;
+     /*  top: 14%!important; */
+      top: 34rem!important;
       }
   }
   @media (max-width:549px) {
@@ -489,7 +488,7 @@ a.tooltips {
       overflow: hidden;
       right: 0;
       width: 100%;
-      top: 40%;
+      top: 34rem;
       }
       .section {
           padding: 7rem 0 21rem
@@ -541,7 +540,7 @@ a.tooltips {
       }
       .topbg {
       width: 80%;
-      top: 28%;
+      /* top: 28%; */
       }
       .nav-mobile {
           display: none
@@ -589,7 +588,8 @@ a.tooltips {
   @media (min-width:1000px) {
   .topbg {
       width: 60%;
-      top: 37%;
+      top: 34rem!important;
+      /* bottom: 32rem; */
   }
       .section {
           padding: 15rem 0 29rem
